@@ -1,3 +1,0 @@
-J:\Epic Games\MyProjects\EE\Source\EnergyExcess\EnergyExcess.Build.cs
-J:\Epic Games\MyProjects\EE\Source\EnergyExcess.Target.cs
-J:\Epic Games\MyProjects\EE\Source\EnergyExcessEditor.Target.cs

@@ -13,7 +13,7 @@ AMyActor::AMyActor()
     EditableMember = 0;
     BPEditableMember = 10;
     BPEditableCatMember = 20;
-    BPReadOnlyMember = 1;
+    BPReadOnlyMember = 2;
 
     //SetLifeSpan(1.0); // время жизни
     //PrimaryActorTick.TickGroup = TG_EndPhysics; // когда объект "тикает"
